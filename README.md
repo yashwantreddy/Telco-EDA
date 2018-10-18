@@ -8,8 +8,8 @@ An in-depth visual dive into the Telco customer churn data from Kaggle.
 * Anaconda with basic libraries
 * Seaborn
 
+if you do not have Seaborn installed, simply do a pip install -
 ```
 pip install seaborn
 ```
 
-Vellipomakey.

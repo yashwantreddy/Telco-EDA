@@ -1,6 +1,6 @@
 # Telco-EDA
 
-An in-depth visual dive into the Telco customer churn data from Kaggle.
+An in-depth visual dive into the Telco customer churn data from [Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn).
 
 ### Prerequisites
 
